@@ -1,8 +1,10 @@
 TOYE OLALEKAN
-Email: jstshile@gmail.com    Phone: +234(0)7033984898
+Email: jstshile@gmail.com    Phone: +234(0)7033984898 Github: https://github.com/Toye095
 CAREER SUMMARY
 Results-driven Data Scientist and Analyst with 8 years of banking experience across Customer Service, Relationship Management, and Product Management. Adept at leveraging data science and business analytics to drive strategic decision-making. Skilled in SQL, Python, and Power BI with a strong foundation in machine learning, statistical modeling, and data visualization. Proven ability to communicate insights effectively to stakeholders and deliver impactful solutions.
 KEY SKILLS
+Artificial Intelligence
+Open AI Llama
 Python	SQL
 Pandas	NumPy
 Matplotlib	Seaborn
